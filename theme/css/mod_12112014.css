@@ -109,7 +109,7 @@ text-align: center;
   width: 50% !important;
 }
 .watermark-logo, .watermark-logo *{
-	opacity:0.5;
+	opacity:0.75;
 }
 
 .pre-order-headline {
