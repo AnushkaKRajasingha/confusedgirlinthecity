@@ -1,0 +1,168 @@
+@CHARSET "ISO-8859-1";
+body.custom-background {
+  background-repeat: repeat-y !important;
+}
+.logo-inner.container{
+  padding: 0;
+}
+.logo-box > p {
+  font-family: "Economica",sans-serif;
+  font-weight: bold;
+}
+
+.logo-inner .logo-box {
+ /* float: left;*/
+ background: rgba(0,0,0,0);
+}
+
+/*div.container div.row:nth-child(1){display:none;}*/
+
+.container.menu div.row ,.container.post-page div.row, #footer.container div.row{display:inherit !important;}
+
+body.home.blog .spacing40{display:none;}
+
+.logo-inner.container, .instagram-widget{
+	background:url('../images/bg.png') repeat;
+}
+
+@media screen and (max-width: 480px) {	
+	#mc_signup_form .mc_input { 
+	  height: 10vw !important;
+	}
+}
+
+img[src="http://ooh.li/2d027e3"]{
+	display:none;
+}
+
+#facebook-likebox-3 > iframe {
+  width: 90% !important;
+  background: url("../images/bg.png") repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+}
+
+.fsl.fwb > a {
+  color: #ff419b;
+}
+
+a.uiLinkSubtle {
+  color: #ff419b;
+}
+
+._4s7c {
+  background: url("../images/bg.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+  border-color: #ff419b;
+}
+
+#mc_signup_form .mc_input {
+  padding: 3%;
+  height: 3vw;
+}
+
+.mc_form_inside > div {
+  margin: 0;
+}
+
+#mc_signup_submit.button {
+  background: none repeat scroll 0 0 #ff419b;
+  border: 1px solid #ff419b;
+  color: #fff;
+  padding: 3%;
+  width: 100%;
+  margin-top: 0px;
+}
+
+/* Ads Settings */
+.ads.ads_728_90{
+text-align: center;
+}
+
+/* Vido button */
+.video.clearfix {
+  position: relative;
+}
+
+.youtubebtn {
+  left: 45%;
+  opacity: 0.5;
+  position: absolute;
+  top: 45%;
+  width: 10%;
+}
+
+.youtubebtn:hover{
+	opacity:1;
+}
+
+.woocommerce #sidebar {
+  display: none;
+}
+
+.woocommerce .thumbnails{
+	margin-left: 0px !important;
+}
+
+.woocommerce #content div.product div.thumbnails a, .woocommerce div.product div.thumbnails a, .woocommerce-page #content div.product div.thumbnails a, .woocommerce-page div.product div.thumbnails a {
+  margin-bottom: 3.8%;
+}
+
+.woocommerce .cart-collaterals .cart_totals table th, .woocommerce-page .cart-collaterals .cart_totals table th {
+  width: 50% !important;
+}
+.watermark-logo, .watermark-logo *{
+	opacity:0.5;
+}
+
+.pre-order-headline {
+  text-align: center;
+}
+
+.pre-order-headline h1{
+	color: #ff419b;
+	clear: both;
+}
+
+/* Mail chimp */
+#mc_embed_signup form {
+  padding: 10px 10% 10px 25% !important;
+}
+
+.mail-chimp-action {
+  display: inline-block;
+  float: left;
+}
+
+#mc_embed_signup .button{
+	height: inherit !important;
+	line-height: inherit !important;
+	padding: 9px 0 !important;;
+	background-color: #ff419b !important;;
+}
+#mc_embed_signup input.email{
+	float: left;
+}
+
+/* popup */
+
+.wdpu-title {
+  font-size: 2.5em !important;
+}
+.wdpu-subtitle {
+  font-size: 1em !important;
+  padding-left: 0.5em;
+}
+.wdpu-title,.wdpu-subtitle {
+  line-height: 1em !important;
+  margin: 0 0 0.2em !important;
+  color: #ff419b !important;
+}
+.wdpu-cta{
+	background-color: #ff419b !important;
+}
+.wdpu-content * {
+  margin: 0 !important;
+}
+
+/* Subscription form 03112015 */
+.popup-subs-form {
+  padding: 4% 1% 0;
+}

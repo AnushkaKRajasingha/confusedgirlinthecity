@@ -1,0 +1,1 @@
+<div id="pushdown" style="margin:0 auto; width:970px;"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&affiliateId=1725986561&adSize=970x66"></script></div>

@@ -1,0 +1,1 @@
+<div class="container ads ads_728_90"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&affiliateId=1725986561&adSize=728x90"></script></div>   
