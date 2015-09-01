@@ -1,0 +1,1 @@
+#2 Remove ads from shop page
