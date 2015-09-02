@@ -123,7 +123,11 @@ text-align: center;
 
 /* Mail chimp */
 #mc_embed_signup form {
-  padding: 10px 10% 10px 25% !important;
+ /* padding: 10px 10% 10px 25% !important;*/
+}
+
+#mc_embed_signup input.email{
+	width: 70% !important;
 }
 
 .mail-chimp-action {
