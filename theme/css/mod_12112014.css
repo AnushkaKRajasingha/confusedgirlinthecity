@@ -170,3 +170,8 @@ text-align: center;
 .popup-subs-form {
   padding: 4% 1% 0;
 }
+
+/* 09022015 */
+h1.page-title {
+  display: none;
+}
