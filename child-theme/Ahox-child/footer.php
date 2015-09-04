@@ -4,12 +4,8 @@
     <!-- www.intagme.com -->
 <iframe src="http://www.intagme.com/in/?u=Y29uZnVzZWRnaXJsbGF8aW58MjAwfDV8M3x8eWVzfDV8dW5kZWZpbmVkfG5v" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:1075px; height: 645px" ></iframe>
     </div></div>
-    <div class="rowspan">
-    <div class="span6 text-left">
-    <h2>confused Girl in the City</h2>
-    <p>We are vulnerable because we are honest.  We are brave because we try.  We are Confused Girls.  Learning to embrace every part of ourselves. We take images of healing crystals and create active-wear that can only be described as pure art.  We support your journey in discovering your true nature. May our crystal inspired designs be a reminder of your eternal beauty.</p>
-    </div>
-    <div class="span5 text-left mailchimp-widget">
+    <div class="row">
+    <div class="span12 text-center mailchimp-widget">
     <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -18,7 +14,7 @@
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<section class=""> 
+<section class="container center"> 
   <h3>SIGNUP FOR OUR NEWSLETTER AND WIN 20% OFF!</h3>
   <p>A new winner is selected monthly ! We never share your information and you may unsubscribe at anytime.
 </section>
