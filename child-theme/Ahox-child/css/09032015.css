@@ -5,3 +5,10 @@ body ,h1.page-title, h1.page-title *{
 .star-rating,.comment-form-rating, body.home .wdpu-buttons{
 	display: none !important;
 }
+body.home ul.products li.product .price{
+	display: none;
+	width: 100%;
+}
+ul.products li.product a h3{
+line-height: 0.5vw;
+}
