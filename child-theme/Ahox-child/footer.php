@@ -16,7 +16,7 @@
 <div id="mc_embed_signup">
 <section class="container center"> 
   <h3>SIGNUP FOR OUR NEWSLETTER AND WIN 20% OFF!</h3>
-  <p>A new winner is selected monthly ! We never share your information and you may unsubscribe at anytime.
+  <p>A new winner is selected monthly!<br/>We never share your information and you may unsubscribe at anytime.
 </section>
 <form action="//confusedgirlinthecity.us8.list-manage.com/subscribe/post?u=4bb1bc6b48f2478213f134702&amp;id=777fabc8e4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
