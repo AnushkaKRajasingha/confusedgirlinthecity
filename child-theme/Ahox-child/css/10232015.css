@@ -1,0 +1,13 @@
+@CHARSET "ISO-8859-1";
+div#logo {
+    background-repeat: no-repeat;
+    background-size: 230% 100%;
+    background-image: url('http://confusedgirlinthecity.com/wp-content/uploads/2014/12/logo.png');
+    display: block;
+    width: 5vw;
+    height: 5vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 00.5vw;
+} 

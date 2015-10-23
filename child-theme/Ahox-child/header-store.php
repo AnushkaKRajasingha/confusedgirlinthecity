@@ -73,7 +73,8 @@
                 </div><!--/.social-icon-->
         	</div><!--/.row-->
      	</div><!--/.container-->
-     <section class="store-header-text container center " style="color: #ff419b !important;">
+     <section class="store-header-text container center " style="color: #ff419b !important; position: relative;">
+     <div id="logo"></div>
 	  <h1>Healing Crystal Inspired Designs</h1>
 	  <h2>Made in L.A</h2>
 	</section>          

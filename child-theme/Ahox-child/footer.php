@@ -1,8 +1,7 @@
     <div id="footer" class="container">
     <div class="row">
     <div class="span12 text-center instagram-widget">
-    <!-- www.intagme.com -->
-<iframe src="http://www.intagme.com/in/?u=Y29uZnVzZWRnaXJsbGF8aW58MjAwfDV8M3x8eWVzfDV8dW5kZWZpbmVkfG5v" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:1075px; height: 645px" ></iframe>
+<!-- INSTANSIVE WIDGET --><script src="//instansive.com/widget/js/instansive.js"></script><iframe src="//instansive.com/widgets/e6eeae9686c4da423fee1a499150b62ec71b94d3.html" id="instansive_e6eeae9686" name="instansive_e6eeae9686"  scrolling="no" allowtransparency="true" class="instansive-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
     </div></div>
     <div class="row">
     <div class="span12 text-center mailchimp-widget">

@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+.variations td.label{
+	padding: 1px !important;
+}
+.variations td.label label{
+	margin: 0px;
+    padding: 5px 10px;
+}
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) { 
+	.social-icon ul{
+	margin-right: 5px !important;
+	}
+	.social-icon ul li{
+	margin-left: 2px !important;
+	}
+	ul#menu-cgc.nav-collapse.in.collapse {
+    width: 100%;
+	}
+}
