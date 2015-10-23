@@ -4,10 +4,22 @@ div#logo {
     background-size: 230% 100%;
     background-image: url('http://confusedgirlinthecity.com/wp-content/uploads/2014/12/logo.png');
     display: block;
-    width: 5vw;
-    height: 5vw;
+    width: 7vw;
+    height: 6vw;
     position: absolute;
     top: 0;
     left: 0;
     margin: 00.5vw;
 } 
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) { 
+	div#logo {
+    background-position-x: 25vw;   
+    background-size: 100% 100%;   
+    width: 100%;
+    height: 30vw;
+    position: inherit;
+}
+}
